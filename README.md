@@ -1,5 +1,5 @@
 # CauseOfDeath
-This syntax file uses the underlying cause of death variables in the DETH file of the ONS Longitudinal Study to derive a 20-category cause of death variable. It uses the ICD8, ICD9 and ICD10 variables, the ICD versions which currently cover the period of the ONS LS (1971 onwards).
+This STATA syntax file uses the underlying cause of death variables in the DETH file of the ONS Longitudinal Study to derive a 20-category cause of death variable. It uses the ICD8, ICD9 and ICD10 variables, the ICD versions which currently cover the period of the ONS LS (1971 onwards).
 
 The 20 categories are:
 1. IHD
